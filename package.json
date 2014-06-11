@@ -1,0 +1,16 @@
+{
+	"name": "bungaloow-challenge",
+	"version": "0.0.1",
+	"dependencies": { 
+		"bcrypt" : "*",
+		"body-parser": "*",
+		"connect-mongo": "*",
+		"cookie-parser": "*",
+		"ejs" : "*",
+		"express" : "*",
+		"express-session" : "*",
+		"mongoose" : "*",
+		"passport" : "*",
+		"passport-local" : "*"
+	}
+}
